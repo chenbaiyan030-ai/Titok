@@ -8,10 +8,10 @@
 #    Each (keyword × source) costs 1 API request per run. Keep it lean on the
 #    free tier (100 req/month). Run `python -m trendwatch quota` to see the math.
 watchlist:
-  - keyword: "your brand or product"
-    sources: ["google search"]
-  - keyword: "a competitor"
-    sources: ["google search"]
+  - keyword: "AI video"
+    sources: ["tiktok"]
+  - keyword: "vibe coding"
+    sources: ["tiktok"]
   # More examples (uncomment / edit):
   # - keyword: "ozempic"
   #   sources: ["google search", "tiktok"]
