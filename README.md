@@ -35,7 +35,7 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-11-16 22:43 UTC
+### 📊 Live trends - updated 2026-11-17 21:29 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
