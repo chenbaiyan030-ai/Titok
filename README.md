@@ -35,13 +35,11 @@ Fork it → add one free key → pick your keywords → GitHub Actions watches t
 
 <!--TRENDWATCH:START-->
 
-### 📊 Live trends - updated 2026-11-17 21:29 UTC
+### 📊 Live trends - updated 2026-11-18 21:04 UTC
 
 <img src="reports/latest.svg" alt="Latest TrendWatch trends" width="600">
 
-**🚀 Breakouts on the watchlist**
-
-- 📈 **vibe coding** is breaking out on tiktok: +62% over 7D  (1M -80%)
+_All quiet - no watchlist breakouts in the latest run._
 
 <sub>Auto-updated by TrendWatch · powered by [Trends MCP](https://www.trendsmcp.ai)</sub>
 
